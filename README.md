@@ -8,7 +8,7 @@ This section explains how to work safely in **your own fork** (`origin`) without
 ---
 
 ### 🌟 Remotes
-- **origin** → your fork (e.g., `https://github.com/RuolanW/DE2025.git`)  
+- **origin** → my fork (e.g., `https://github.com/RuolanW/DE2025.git`)  
 - **upstream** → teacher’s repo (e.g., `https://github.com/IndikaKuma/DE2025.git`)  
 
 Check with:
